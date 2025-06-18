@@ -6,6 +6,6 @@
         <STATE NAME="FILE_ID" TYPE="string" VALUE="7f001e9ea97267705748125" />
         <STATE NAME="FILE_TYPE" TYPE="int" VALUE="0" />
         <STATE NAME="READ_ONLY" TYPE="boolean" VALUE="false" />
-        <STATE NAME="NAME" TYPE="string" VALUE="GrayFish_9B1CA66AAB784DC5F1DFE635D8F8A904" />
+        <STATE NAME="NAME" TYPE="string" VALUE="GrayFish" />
     </BASIC_INFO>
 </FILE_INFO>
